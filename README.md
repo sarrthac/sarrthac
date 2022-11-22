@@ -3,7 +3,7 @@
 
 **sarrthac/sarrthac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-...banner image...
+<!-- ...banner image... -->
 #### Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,6 +12,11 @@
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+<div style="text-align: center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</div>
 
 Here are some ideas to get you started:
 
