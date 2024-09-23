@@ -18,7 +18,7 @@ Hi there! I'm Sarthak, somebody who's just trying to get through this crazy worl
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning SPRING-BOOT
 - 📫 How to reach me: www.linkedin.com/in/sarthak-zalte-62019a1ab
 - 😄 Pronouns: HE / HIM
 
