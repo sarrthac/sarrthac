@@ -13,9 +13,12 @@ Hi there! I'm Sarthak, somebody who's just trying to get through this crazy worl
 
 
 #### Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+
 
 
 - 🌱 I’m currently learning SPRING-BOOT
